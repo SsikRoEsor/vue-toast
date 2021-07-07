@@ -1,0 +1,44 @@
+{
+  "id": "2634258",
+  "name": "vue-toast",
+  "font_family": "iconfont-vue-toast",
+  "css_prefix_text": "icon-vue-toast-",
+  "description": "基于vue2开发的轻量级toast",
+  "glyphs": [
+    {
+      "icon_id": "11981751",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e976",
+      "unicode_decimal": 59766
+    },
+    {
+      "icon_id": "13519497",
+      "name": "success",
+      "font_class": "success",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "15167681",
+      "name": "dangerous",
+      "font_class": "dangerous_1",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "17412233",
+      "name": "Error Circle-1",
+      "font_class": "ErrorCircle-1",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "21823741",
+      "name": "error",
+      "font_class": "error",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    }
+  ]
+}
