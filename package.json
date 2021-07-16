@@ -3,7 +3,7 @@
   "description": "基于 Vue 的轻量级toast",
   "main": "lib/vueToast.umd.min.js",
   "keywords": ["vue-toast", "toast-vue"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "publishConfig": {
     "access": "public"
