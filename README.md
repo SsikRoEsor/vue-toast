@@ -30,5 +30,5 @@ Vue.use(toast);
  * @param {string} config.msg 信息
  * @param [number] config.duration 持续时间 默认2.5s
  */
-this.$toast({ type:'success', msg: 'message' })
+this.$toast({ type:'success', msg: 'message', duration: 2.5e3 })
 ```

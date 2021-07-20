@@ -1,16 +1,16 @@
 <template>
   <div class="toast" v-if="show">
-    <i v-if="type == 'info'" class="iconfont-vue-toast icon-vue-toast-info"></i>
+    <i v-if="type === 'info'" class="iconfont-vue-toast icon-vue-toast-info"></i>
     <i
-      v-if="type == 'success'"
+      v-if="type === 'success'"
       class="iconfont-vue-toast icon-vue-toast-success"
     ></i>
     <i
-      v-if="type == 'danger'"
+      v-if="type === 'danger'"
       class="iconfont-vue-toast icon-vue-toast-dangerous_1"
     ></i>
     <i
-      v-if="type == 'error'"
+      v-if="type === 'error'"
       class="iconfont-vue-toast icon-vue-toast-error"
     ></i>
     {{ msg }}
@@ -18,7 +18,7 @@
 </template>
 
 <style scoped>
-* {
+.toast * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;

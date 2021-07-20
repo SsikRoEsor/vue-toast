@@ -2,7 +2,10 @@
   "name": "@air-cloud/vue-toast",
   "description": "基于 Vue 的轻量级toast",
   "main": "lib/vueToast.umd.min.js",
-  "keywords": ["vue-toast", "toast-vue"],
+  "keywords": [
+    "vue-toast",
+    "toast-vue"
+  ],
   "version": "0.1.1",
   "private": false,
   "publishConfig": {
